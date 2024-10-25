@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223662331979",
+    "project_id": "regrist-codelab",
+    "storage_bucket": "regrist-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223662331979:android:45808baa46250235a995ce",
+        "android_client_info": {
+          "package_name": "com.example.codelab_tugas1_modul3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqP9jDTCKlyGp_hTw6hIIy8wtyGAuyc8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
